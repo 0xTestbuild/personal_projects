@@ -4,7 +4,7 @@ Projects:
 
 1) Calculator(Completed) 
 
-	Simple calculator app that performs the 4 main mathematical opeerations. 
+	Simple calculator app that performs the 4 main mathematical operations. 
 
 2) File De(compressor) (In Progress...)
 
